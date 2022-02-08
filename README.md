@@ -59,5 +59,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://github.com/snellc1/404-Error-Page)
+- GitHub [@snellc1](https://github.com/snellc1)
