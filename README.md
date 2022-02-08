@@ -55,7 +55,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ### Links
 
 - Solution URL: [https://github.com/snellc1/404-Error-Page](https://github.com/snellc1/404-Error-Page)
-- Live Site URL: [https://snellc1.github.io/3_Column-Preview/](https://snellc1.github.io/3_Column-Preview/)
+- Live Site URL: [https://snellc1.github.io/404-Error-Page/](https://snellc1.github.io/404-Error-Page/)
 
 ## Contact
 
